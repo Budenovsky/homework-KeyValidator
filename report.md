@@ -7,15 +7,14 @@
 На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Budenovsky/homework-KeyValidator/issues/1#issue-775364794
-* https://github.com/Budenovsky/homework-KeyValidator/issues/2#issue-775367753
-* https://github.com/Budenovsky/homework-KeyValidator/issues/3#issue-775370713
+* [При вводе валидного ключа из Руководства использования KeyValidator возвращается результат FAIL](https://github.com/Budenovsky/homework-KeyValidator/issues/1#issue-775364794)
+* [При вводе невалидного ключа из Руководства использования KeyValidator возвращается результат OK](https://github.com/Budenovsky/homework-KeyValidator/issues/2#issue-775367753)
+* [Неверный формат ключа для проверки в Руководстве использования KeyValidator](https://github.com/Budenovsky/homework-KeyValidator/issues/3#issue-775370713)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* баг-репорт
-* отчет о тестировании
+* тест-кейс
 
 *Примечание\*: не указывайте артефакты "для галочки". Если вы сюда напишите **тест-план**, то мы попросим вас его показать (а если не покажете - то отправим работу на доработку). Пишите только то, что реально существует и требуется в задании.*
 
